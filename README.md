@@ -3,6 +3,12 @@
 
 # Implementing TWRP is an extremely dangerous activity. We are not responsible for any damage to your device. Your own risk. (We will support you as much as possible)
 
+# Before installing
+### Make sure USB debugging is enabled on your Nexus5.
+### You can find out how to enable it if you google it.
+### Please install adb first.
+### Place TWRP 3.7.0 for Nexus5 in your download folder
+
 # How to use
 ### Download TWRP and save it in your Downloads folder.
 ### 1. Connect your device first, open TWRP Easy installer and press the Fastboot button. Make sure Fastboot mode is activated.
