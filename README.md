@@ -16,4 +16,4 @@
 ### 4. Once done, use the volume keys on your device to select Start and press the power button.
 ### 5. When the startup screen appears, the recovery is complete! thank you for your hard work.
 
-###If you need help or have feedback, please DM the author on Twitter (@MXCorei7).
+### If you need help or have feedback, please DM the author on Twitter (@MXCorei7).
