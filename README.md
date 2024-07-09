@@ -1,7 +1,7 @@
 # TWRP Easy installer for Nexus5 
 ### Software that allows you to easily install TWRP on your Nexus5
 
-# mplementing TWRP is an extremely dangerous activity. We are not responsible for any damage to your device. Your own risk. (We will support you as much as possible)
+# Implementing TWRP is an extremely dangerous activity. We are not responsible for any damage to your device. Your own risk. (We will support you as much as possible)
 
 # How to use
 ### Download TWRP and save it in your Downloads folder.
